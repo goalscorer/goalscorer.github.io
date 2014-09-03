@@ -1,0 +1,27 @@
+html
+{
+	background: #6E4242;
+}
+body
+{
+	background: #EDEDED;
+	box-shadow: 2px 2px 1px black;
+	margin: 25px;
+	padding: 7px;
+}
+p
+{
+	font-family: 'Josefin Sans', sans-serif;
+	font-size: 16px;
+}
+h1, h3
+{
+	font-family: 'Rozha One', serif;
+}
+div.about
+{
+	border: #C9C9C9 5px solid;
+	padding: 5px;
+	word-spacing: normal;
+	margin: 7px;
+}
