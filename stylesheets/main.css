@@ -79,3 +79,9 @@ div.contact
 	margin:25px;
 	padding: 7px;
 }
+footer
+{
+	margin: 10px;
+	border-top:#C6CCCC 2px solid;
+	padding: 15px;
+}
