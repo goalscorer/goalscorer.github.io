@@ -63,3 +63,18 @@ div.contact
 	border:  #C9C9C9 5px solid;
 	width: 60%;
 }
+
+.purchaseinfo
+{
+	margin: 25px;
+	border-style: solid;
+	border-width: 5px;
+	border-color: #C9C9C9;
+	padding: 7px;
+}
+.pages
+{
+	border: #C9C9C9 5px solid;
+	margin:25px;
+	padding: 7px;
+}
