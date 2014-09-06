@@ -51,9 +51,10 @@ div.contact
 }
 .title
 {
-	position: absolute;
-	left: 475px;
-	top: 50px;
+	/*position: absolute;
+	left: 35%;
+	top: 7%;*/
+	float:left;
 }
 .purchase
 {
